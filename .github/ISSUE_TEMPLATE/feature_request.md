@@ -1,3 +1,10 @@
+---
+name: Feature
+about: 기능 요청
+title: "[Feature] "
+labels: enhancement
+---
+
 ## ✨ Feature
 
 * 설명:
