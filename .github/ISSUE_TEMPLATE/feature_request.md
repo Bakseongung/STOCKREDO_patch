@@ -14,5 +14,5 @@ assignees: Bakseongung
 ### 필요 이유
 -
 
-### 기대 동작
+### 개선 방향
 -
